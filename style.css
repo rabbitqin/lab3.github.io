@@ -1,0 +1,25 @@
+/*ul{
+width: 1000px;
+height: auto;
+top: 50%;
+left: 50%;
+border:0px;
+transform: translate(-50%, -50%);
+}*/
+p{
+	 margin-left:50px;
+}
+#pic{
+  list-style:none  
+}
+#pic li{
+  float:left;
+  width:200px;
+  height:200px;
+  margin:10px
+}
+#pic li img{
+  max-width:100%;
+  max-height:100%;
+}
+
